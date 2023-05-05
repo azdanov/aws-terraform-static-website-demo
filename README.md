@@ -6,6 +6,8 @@ The end result is a personal alternative to Vercel or Netlify.
 
 You can read the full blog post on https://azdanov.dev/articles/aws-terraform-static-website
 
+And a very useful code review by an experienced Cloud Architect sharing tips on how to make it better: https://www.youtube.com/watch?v=taVEy7Rinoo
+
 ## Pre-requisites
 
 - [Terraform](https://www.terraform.io/downloads.html) installed.
